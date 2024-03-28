@@ -2,17 +2,22 @@
  Spring Boot , Thymeleaf 
 
 Technologies used:-
+
 Front-End Development:
+
 Html
 Css
 Javascript
 BootStrap
+
 Back-End Development
 Spring Boot
 JDBC
 Servlet
 JSP
 MySQL
+
+
 ***Required***
 
 : MySQL
