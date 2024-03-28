@@ -1,6 +1,25 @@
 # Spring Boot E- Commerce Project
  Spring Boot , Thymeleaf 
 
+Technologies used:-
+Front-End Development:
+Html
+Css
+Javascript
+BootStrap
+Back-End Development
+Spring Boot
+JDBC
+Servlet
+JSP
+MySQL
+***Required***
+
+: MySQL
+: IntelliJ IDEA
+: Spring Initializer
+: Java JDK 17+
+
 *login
 ![login](https://github.com/tameemahman/Spring-Boot-E--Commerce-Project/assets/132429149/4d21567e-6f54-4863-bf58-a4d60e129de7)
 
